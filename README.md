@@ -28,7 +28,7 @@ Add the following to your `Package.swift` file:
 
 ```
 dependencies: [
-    .package(url: "https://github.com/yourusername/NetForge.git", from: "1.0.0")
+    .package(url: "https://github.com/NetForge.git", from: "1.0.0")
 ]
 ```
 
